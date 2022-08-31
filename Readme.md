@@ -3,6 +3,15 @@
 
 <p>Pequeno treinamento.</p>
 
+
+<image src='./src/assets/desktop-design.jpg'/>
+<div style="display:flex; justify-content: center">
+<image src='./src/assets/mobile-design.jpg' height='400px'
+width='200px'
+/>
+</div>
+<br/>
+
 <p>Foi utilizado as seguintes tecnologias.</p>
 
 - React 
